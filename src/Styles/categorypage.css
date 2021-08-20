@@ -1,0 +1,10 @@
+.categoryPage li{
+  display: inline-block;
+  padding: 17px;
+}
+.categoryPage{
+  margin-top: 50px;
+}
+.categoryPage p{
+  font-size: 21px;
+}

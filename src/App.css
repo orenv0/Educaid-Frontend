@@ -1,0 +1,50 @@
+@import './Styles/navbar.css';
+@import './Styles/buttons.css';
+@import './Styles/categorypage.css';
+@import './Styles/casebox.css';
+@import './Styles/myzone.css';
+@import './Styles/graph.css';
+@import './Styles/mytests.css';
+@import './Styles/testbox.css';
+@import './Styles/sidebar.css';
+@import './Styles/testspage.css';
+@import './Styles/statistics.css';
+@import './Styles/ratingpage.css';
+@import './Styles/home.css';
+
+.App {
+  text-align: center;
+  min-height: 100vh;
+  height: 100%;
+  background-color: rgb(224, 224, 224);
+}
+.upperHeader{
+  color:white;
+  padding: 2px;
+  min-height: 10vh;
+  background-color:rgb(100, 8, 8)
+}
+
+.footer{
+position: fixed;
+bottom:0;
+width: 100%;
+height:5%;
+background-color: rgb(100, 8, 8);
+text-align:center;
+color: white;
+}
+.footer h5{
+  margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+

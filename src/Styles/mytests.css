@@ -1,0 +1,23 @@
+.myTests table{
+  border-spacing: 40px 5px;
+}
+
+.pagingButtonImage{
+  cursor: pointer;
+}
+
+.recordModal{
+  text-align:center;
+  font-size: 22px;
+  margin-top: 2%;
+}
+
+.recordModalDetails li{
+margin: 3%;
+display: inline;
+}
+
+.recordModal ol{
+  text-align:right;
+  direction: rtl
+}

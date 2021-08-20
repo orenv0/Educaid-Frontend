@@ -1,0 +1,16 @@
+.myzone p{
+font-size: 22px;
+}
+
+.myzone label{
+font-size: 16px;
+}
+.myzone table{
+margin-left: 30%;
+}
+.myzone{
+  position:fixed;
+  overflow: auto;
+  height: 72%;
+  width: 84%;
+}

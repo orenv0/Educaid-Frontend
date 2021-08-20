@@ -1,0 +1,41 @@
+.navbar{
+  min-height: 6.3vh;
+  min-width: 1500px;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  border-bottom: 1px solid rgb(189, 187, 187);
+  background-color:rgb(255, 255, 255);
+}
+.navbar li{
+  float:right;
+  list-style-type: none;
+}
+.navbar li a{
+  font-size: 21px;
+  font-family:"Arial Unicode MS";
+  display: block;
+  color:rgb(0, 0, 0);
+  text-align: center;
+  padding-left:30px;
+  padding-right: 20px;
+  text-decoration: none;
+}
+.navbar li a:hover{
+ color: rgb(160, 16, 16);
+}
+
+.login-tab li{
+  float:left;
+  margin-left:-15px ;
+  margin-top:-4px;
+  list-style-type: none;
+}
+.login-tab li a{
+  display: block;
+  color:rgb(0, 0, 0);
+  text-align: center;
+  padding-left:1px;
+  padding-right: 20px;
+  text-decoration: none;
+}

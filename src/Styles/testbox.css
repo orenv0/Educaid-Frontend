@@ -1,0 +1,24 @@
+.testModal{
+ text-align:center;
+  font-size: 22px;
+  margin-top: 2%;
+  margin-right: 2%;
+}
+.testModal p{
+ text-align:right;
+  font-size: 22px;
+  
+}
+.testModal ol{
+ direction: rtl
+}
+.testModal input[type=radio]{
+text-align: right;
+}
+.questionList{
+  text-align: right;
+}
+
+.testModalContent ul{
+list-style-type: none;
+}

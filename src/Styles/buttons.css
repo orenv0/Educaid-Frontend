@@ -1,0 +1,115 @@
+.logoutButton {
+    box-shadow: inset 0px 1px 0px 0px #f5978e;
+    background: linear-gradient(to bottom, #f24537 5%, #c62d1f 100%);
+    background-color: #f24537;
+    border-radius: 8px;
+    border: 2px solid #d02718;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #810e05;
+}
+
+.logoutButton:hover {
+    background: linear-gradient(to bottom, #c62d1f 5%, #f24537 100%);
+    background-color: #c62d1f;
+}
+
+.logoutButton:active {
+    position: relative;
+    top: 1px;
+}
+
+.loginButton {
+    margin:auto;
+    box-shadow: inset 0px 1px 0px 0px#93c786;
+    background: linear-gradient(to bottom, #67cf4e 5%,#338f1c 100%);
+    background-color: #37f247;
+    border-radius: 8px;
+    border: 1px solid #338f1c;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 21px;
+    font-weight: bold;
+    padding: 6px 10px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px#297017;
+}
+
+.loginButton:hover {
+    background: linear-gradient(to bottom, #338f1c 5%, #338f1c 100%);
+    background-color: #338f1c;
+}
+
+.loginButton:active {
+    position: relative;
+    top: 1px;
+}
+.blueButton {
+    box-shadow: inset 0px 1px 0px 0px #5f8ce0;
+    background: linear-gradient(to bottom, #2f75f8 5%, #0b51d3 100%);
+    background-color: #296be6;
+    border-radius: 8px;
+    border: 2px solid #0b51d3;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 4px 12px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #07369b;
+}
+
+.blueButton:hover {
+    background: linear-gradient(to bottom, #0b51d3 5%, #0e5df0 100%);
+    background-color: #0b51d3;
+}
+
+.blueButton:active {
+    position: relative;
+    top: 1px;
+}
+
+.greyButton {
+    box-shadow: inset 0px 1px 0px 0px #cdcfd3;
+    background: linear-gradient(to bottom, #8b8c8f 5%, #6b7079 100%);
+    background-color: #87898b;
+    border-radius: 8px;
+    border: 2px solid #565657;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 2fpx 10px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #474749;
+}
+
+.greyButton:hover {
+    background: linear-gradient(to bottom, #424344 5%, #929292 100%);
+    background-color: #5d6169;
+}
+
+.greyButton:active {
+    position: relative;
+    top: 1px;
+}
+
+.xclose{
+  cursor: pointer;
+  position:absolute;
+  float: right;
+  top: 20px;
+  right: 40px;
+}

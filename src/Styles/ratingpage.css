@@ -1,0 +1,19 @@
+textarea {
+margin-left: 3%;
+    width: 95%;
+    min-height: 200px;
+    direction: RTL;
+}
+
+form textarea {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.ratingSubmit {
+    margin-top: 55px;
+    
+}
+.rating{
+  margin-left: 43%;
+}

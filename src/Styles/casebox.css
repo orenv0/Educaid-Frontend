@@ -1,0 +1,36 @@
+.caseBox{
+  background-color: rgb(255, 255, 255);
+  margin-top: 14%;
+  padding: 5px 5px;
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+}
+.caseBox :hover{
+    cursor: pointer;
+}
+.caseModal{
+  text-align:center;
+  font-size: 22px;
+  margin-top: 2%;
+ 
+}
+.caseModal ol{
+  text-align:right;
+  direction: rtl
+}
+.caseModal li:hover{
+  color: rgb(160, 16, 16);
+  cursor: pointer;
+ }
+.caseModal h4{
+  text-align:right;
+  margin-right: 1%;
+}
+.caseModal p{
+  text-align:right;
+  margin-right: 1%;
+}
+.caseVideo{
+  margin-left: 32%;
+}

@@ -1,0 +1,11 @@
+.statisticResults ul{ 
+ text-align: right;
+ direction: rtl;
+ list-style-type: none;
+ margin-right: 25%;
+}
+
+.statisticResults li{ 
+ font-size: 18px;
+ font-family:Verdana,Tahoma, sans-serif
+}
