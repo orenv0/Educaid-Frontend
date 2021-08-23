@@ -23,3 +23,5 @@ You will also see any lint errors in the console.
 ![image](https://user-images.githubusercontent.com/88652463/130411549-0a3cb9f2-9dc8-4968-ac13-53c66f8fd6f0.png)
 ### Sign up and Log in with Auth0
 ![image](https://user-images.githubusercontent.com/88652463/130411946-f92ace49-59ff-43f3-b432-729754023303.png)
+### Private Zone - Doing Tests
+![image](https://user-images.githubusercontent.com/88652463/130412337-dc6ce96b-88a2-45fb-bfac-8d1cbdc77b31.png)
