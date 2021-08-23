@@ -1,6 +1,6 @@
 # Educaid
 
-A web application for first aid tutorials with videos and audio clips. The user has the option to sign up and to get access to a private zone which allows him to do tests, watch tests he already done, watch his grades and to send us a feedback through the email. The client side is built with React.js and contains two services - EmailJS and Auth0 (for server side go back to repositories)
+A web application for first aid tutorials with videos and audio clips. The user has the option to sign up and to get access to a private zone which allows him to do tests, watch tests he already done, watch his grades and to send us a feedback through the email. The client side is built with React.js and contains two services - EmailJS and Auth0 (for server side go back to repositories).
 
 ## Available Scripts
 
