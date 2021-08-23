@@ -19,5 +19,6 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Screenshots:
-
+### `Category Page`
+![image](https://user-images.githubusercontent.com/88652463/130411549-0a3cb9f2-9dc8-4968-ac13-53c66f8fd6f0.png)
 
